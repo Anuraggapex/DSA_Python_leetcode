@@ -1,4 +1,4 @@
-# 🚀 LeetCode Progress & DSA Tracker
+#  LeetCode Progress & DSA Tracker
 
 Welcome to my repository! This is a dedicated space where I track my daily progress, code solutions, and problem-solving journey on LeetCode. 
 
@@ -6,7 +6,7 @@ The goal of this repository is to master Data Structures and Algorithms (DSA) an
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 I am actively solving problems across a wide variety of topics, including:
 
@@ -16,14 +16,14 @@ I am actively solving problems across a wide variety of topics, including:
 
 ---
 
-## 🛠️ Tech Stack & Language
+##  Tech Stack & Language
 
-*   **Primary Language:** Python 🐍
+*   **Primary Language:** Python 
 *   **Platform:** [LeetCode](https://leetcode.com/)
 
 ---
 
-## 📈 My Goals
+##  My Goals
 
 - [ ] Solve problems consistently to build strong analytical thinking.
 - [ ] Optimize solutions for both **Time** and **Space** complexity.
