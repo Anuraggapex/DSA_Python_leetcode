@@ -1,6 +1,6 @@
 #  LeetCode Progress & DSA Tracker
 
-Welcome to my repository! This is a dedicated space where I track my daily progress, code solutions, and problem-solving journey on LeetCode. 
+Welcome to my repository. This is a dedicated space where I track my daily progress, code solutions, and problem-solving journey on LeetCode. 
 
 The goal of this repository is to master Data Structures and Algorithms (DSA) and build a strong foundation across all core computer science topics.
 
