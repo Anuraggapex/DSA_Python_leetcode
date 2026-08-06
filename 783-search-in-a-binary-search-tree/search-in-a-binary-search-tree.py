@@ -1,10 +1,13 @@
 class Solution:
-    def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+    def searchBST(self, root: Optional[TreeNode],target: int) -> Optional[TreeNode]:
         if root is None:
             return None
-        if root.val==val:
-            return root
-        if val<root.val:
-            return self.searchBST(root.left,val)
-        if val>root.val:
-            return self.searchBST(root.right,val)
+
+        curr=root
+        while curr!=None:
+            if curr.val==target:
+                return curr
+            elif target<curr.val:
+                curr=curr.left
+            else:
+                curr=curr.right
